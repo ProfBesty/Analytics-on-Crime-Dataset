@@ -1,22 +1,26 @@
 ![image](https://github.com/ProfBesty/Analytics-on-Crime-Dataset/assets/147350441/ef749e70-b8a2-4306-825c-60bbe5b256a3)
 
-This is the official repository for the Power BI Guided project for the Data Titan Cohort.
+In our world today, crime is a big problem, and it's getting worse. This makes it hard for police officers everywhere to do their job. To make things better, they need to use new technologies and look at data more closely. This story talks about how looking at crime data can help police do a better job in a big city.
 
 Interact with the final dashboard here:
 
 - [Sales Overview Dashboard](https://www.shotspotter.com/wp-content/uploads/2021/06/crime-analysis-program.jpg)
 - Sales Activity Dashboard
-- Watch Project summary
+- Watch the Project summary
 
 View Students' Project Gallery
 
 
-<h1>Business problem</h1>
+<h1>Problem Statement</h1>
 
-Mary is the owner of a small pharmacy located in a busy city center. She has been running the pharmacy for the past few years and has noticed that sales have stagnated. Despite the competitive pricing, Mary's Pharmacy has struggled to attract new customers.
+The big-city police department I work with is facing more and more crime, and they want to find better ways to stop it before it happens. They asked our company, Datafied Technologies, for help using data analysis to learn about crime patterns, where crime might happen a lot, and how to stop it from happening. As a junior data analyst at Datafied Technologies, my job is to:
 
-To try and improve her business, Mary decided to contact Datafied Technologies to conduct a thorough analysis of her sales data using the transactional data collected over the past 6 years. She exports the data from her Point-of-Sale system, which includes information on the date and time of each sale, the name of the pharmaceutical drug sold, and the quantity of each drug sold.
+Figure out crime patterns and trends using data.
+Find out where crime might happen a lot using data.
+Make the plans for stopping crime better using what we learn from the data.
 
-You are the senior data analyst at Datafied Technologies. You are required to come up with business questions and generate metrics that could be tracked to identify trends and patterns in the sale of pharmaceutical drugs sold in the pharmacy over time. You also need to visualize the data and create dashboards to uncover hidden insights and track the metrics you have defined for the business.
+<h1>Data Sourcing</h1>
 
-Mary needs your help to uncover valuable insights about her business and take action to improve its performance. Mary intends to use this newfound knowledge to make informed decisions about her inventory and marketing strategies, ultimately leading to an increase in sales and the growth of her business.
+The data we have comes from the police and covers crime from March 2013 to 2023. It's considered very reliable and follows strict rules set by the Home Office. This makes sure the information is fair and meets professional standards for statistics.
+
+![image](https://www.google.com/imgres?imgurl=http%3A%2F%2Fprojectbritain.com%2Fregions%2Fimages%2Fregions.png&tbnid=azCYFYhhYgkYTM&vet=12ahUKEwijnoWcvc2EAxUlTKQEHZfJBHEQMygLegQIARBl..i&imgrefurl=http%3A%2F%2Fprojectbritain.com%2Fregions%2Findex.htm&docid=DKRYueZJyMx7mM&w=253&h=307&q=map%20of%20uk%20in%20region%20view&ved=2ahUKEwijnoWcvc2EAxUlTKQEHZfJBHEQMygLegQIARBl)
