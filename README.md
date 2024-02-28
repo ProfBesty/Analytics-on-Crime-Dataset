@@ -25,3 +25,22 @@ The data we have comes from the police and covers crime from March 2013 to 2023.
 
 (![Imageeee](https://github.com/ProfBesty/Analytics-on-Crime-Dataset/assets/147350441/cf5ccc1d-f96c-4f77-acc5-5d7f78bf685f)
 
+The regions under study include all areas in England and Wales:
+
+- East Midlands Region
+-Eastern Region
+- London Region
+- North East Region
+- North West Region
+- South East Region
+- South West Region
+- Wales
+- West Midlands Region
+- Yorkshire and the Humber
+
+These regions encompass all police forces and community safety partnerships (CPS).
+
+<h3>Data source<h3>
+- [Crime Records](https://docs.google.com/spreadsheets/d/1mCdPRU2TMxb9Z_g_iDUT373bE_mB7GPEA7mKWHYMiTc/edit?usp=sharing)
+- [Location Data](https://docs.google.com/spreadsheets/d/1DXLOKdN-O6a4rYjn1c2tKtNt5dIe9_op1TH1smUXitM/edit?usp=sharing)
+
