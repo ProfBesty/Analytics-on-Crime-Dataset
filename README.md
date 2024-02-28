@@ -23,5 +23,5 @@ Make the plans for stopping crime better using what we learn from the data.
 
 The data we have comes from the police and covers crime from March 2013 to 2023. It's considered very reliable and follows strict rules set by the Home Office. This makes sure the information is fair and meets professional standards for statistics.
 
-[Regions of the UK](![Imageeee](https://github.com/ProfBesty/Analytics-on-Crime-Dataset/assets/147350441/cf5ccc1d-f96c-4f77-acc5-5d7f78bf685f)
+(![Imageeee](https://github.com/ProfBesty/Analytics-on-Crime-Dataset/assets/147350441/cf5ccc1d-f96c-4f77-acc5-5d7f78bf685f)
 
