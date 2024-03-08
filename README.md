@@ -4,9 +4,8 @@ In our world today, crime is a big problem, and it's getting worse. This makes i
 
 Interact with the final dashboard here:
 
-- [Sales Overview Dashboard](https://www.shotspotter.com/wp-content/uploads/2021/06/crime-analysis-program.jpg)
-- Sales Activity Dashboard
-- Watch the Project summary
+- [Smart Crime Report](https://github.com/ProfBesty/Analytics-on-Crime-Dataset/assets/147350441/79549796-985d-47f1-b2f9-88b6feb12631)
+
 
 View Students' Project Gallery
 
@@ -15,9 +14,9 @@ View Students' Project Gallery
 
 The big-city police department I work with is facing more and more crime, and they want to find better ways to stop it before it happens. They asked our company, Datafied Technologies, for help using data analysis to learn about crime patterns, where crime might happen a lot, and how to stop it from happening. As a junior data analyst at Datafied Technologies, my job is to:
 
-Figure out crime patterns and trends using data.
-Find out where crime might happen a lot using data.
-Make the plans for stopping crime better using what we learn from the data.
+- Figure out crime patterns and trends using data.
+- Find out where crime might happen a lot using data.
+- Make plans for stopping crime better using what we learn from the data.
 
 <h1>Data Sourcing</h1>
 
@@ -45,4 +44,29 @@ These regions encompass all police forces and community safety partnerships (CPS
 
 - [Crime Records](https://docs.google.com/spreadsheets/d/1mCdPRU2TMxb9Z_g_iDUT373bE_mB7GPEA7mKWHYMiTc/edit?usp=sharing)
 - [Location Data](https://docs.google.com/spreadsheets/d/1DXLOKdN-O6a4rYjn1c2tKtNt5dIe9_op1TH1smUXitM/edit?usp=sharing)
+
+
+<h1>Project Objective</h1>
+The project's successful implementation will enable the police department to make informed decisions, resulting in significant enhancements in crime prevention and law enforcement effectiveness. This not only revolutionizes conventional policing techniques but also highlights the importance of proactive, data-driven strategies in tackling the changing dynamics of crime in urban settings.
+
+<h1>Data Transformation and Cleaning</h1>
+By eliminating duplicates, filtering rows and columns, rectifying inconsistencies, and validating data format, the dataset underwent a comprehensive cleaning process, ensuring its readiness for analysis and visualization tasks.
+
+**Dataset Before Cleaning**
+![Data before cleaning](https://github.com/ProfBesty/Analytics-on-Crime-Dataset/assets/147350441/6825eff0-48e8-49c4-a9b7-1fdff1a3a4e0)
+
+**Dataset After Cleaning**
+![Data after cleaning](https://github.com/ProfBesty/Analytics-on-Crime-Dataset/assets/147350441/7916cc9f-121f-4247-b1ec-6de0d0ffef5e)
+
+<h1>DATA MODELING</h1>
+I Identified dimensions for analysis breakdown and this led to the creation of new tables. 
+These tables include the 
+- Offence dimension
+- Date dimension and 
+- Location dimension.
+
+The Star Schema data model was adopted in this instance
+![image](https://github.com/ProfBesty/Analytics-on-Crime-Dataset/assets/147350441/d6fb9f55-4283-49c5-a57e-5a348b939ee8)
+
+
 
